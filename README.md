@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a PhD. student interested in cosmological data and statistical analysis ⚡
+I'm a PhD. student interested in cosmological data and statistical analysis 🛰🌌
 
 <!--
 **matiasleize/matiasleize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
