@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm a PhD. student interested in cosmological data and statistical analysis 🛰🌌. I'm current working on testing alternative cosmological models and evaluating tension metrics for cosmological datasets. 
+I'm a PhD. student interested in cosmological data and statistical analysis 🛰🌌
+
+I'm currently working on testing alternative cosmological models and evaluating tension metrics for cosmological datasets. 
 
 <!--
 **matiasleize/matiasleize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
